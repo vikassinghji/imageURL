@@ -1,0 +1,15 @@
+{
+    "name": "Your NFT Name",
+    "description": "NFT Description",
+    "image": "https://github.com/vikassinghji/imageURL/blob/main/wallpaperflare.com_wallpaper%20(1).jpg",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
